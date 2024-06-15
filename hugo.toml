@@ -1,0 +1,4 @@
+baseURL = 'lib.terratusnex.us'
+languageCode = 'en-us'
+title = 'Terratus Nexus Library'
+theme = 'hugo-book'
