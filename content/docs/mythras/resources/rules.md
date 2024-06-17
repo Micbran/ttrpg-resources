@@ -222,3 +222,17 @@ It's vaguely important to note that critical parries / critical attacks don't do
 - Major Wound: Hit location is reduced to a negative # of hit points equal to or greater than it's starting hit points.
   - e.g. A location with 8 hit points that is reduced to -1 from a single hit is a serious wound. If it were to get hit again and go to -8, that's a major wound.
   - These REALLY fuck you up, and you need to make a check vs. dying. And you're also bleeding to death. Don't let this happen to you!
+
+#### Reach
+A difference of one size in reach means nothing, as far as I'm aware. So all of this applies to 2 or more size steps.
+- Categories are Touch, Short, Medium, Long and Very Long, sometimes creatures are even larger.
+- Longer has engaged Shorter within their reach:
+  - The wielder of the Shorter weapon cannot directly attack the wielder of the longer. They need to close the gap first via Special Effect or specific action.
+- Shorter has engaged Longer within their reach:
+  - The Longer's weapon size is treated as (difference between weapon reaches) smaller and only deals 1d3+1 damage, due to needed to strike with the other end of the weapon, and guard from an awkward position.
+- Closing Distance
+  - Close Range Special Effect (requires Special Effect generation)
+  - Change Range: Combat action (costing AP), opponent can attempt to counter if they have Action Points
+    - Opposed Evade skill test
+    - The opponent can instead _attack_, making this instead Combat Style vs. Evade, working like a standard differential roll.
+      - In this case, no matter what, the distance is bridged, even if the attack succeeds. 
