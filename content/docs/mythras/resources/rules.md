@@ -57,6 +57,7 @@ Every 6 (and fraction thereof) is 1 luck point. Restore at the start of every se
 
 Luck points can be used to:
 - Reroll things that affect you. That includes your own rolls and other people's rolls towards you. That also includes _any_ kind of roll, not just d100 ones.
+  - Additionally, on d100 rolls you can optionally swap the 10's and 1's place instead of rerolling.
 - Gain 1 Action Point when you have zero. Can only be used on defensive actions. Can only be used once in an encounter.
 - Turn a Major Wound into a Serious Wound instead, which makes you NOT bleeding all over the floor.
 
@@ -119,7 +120,7 @@ One roll, for the lowest % of the group. Makes the most sense where one failure 
 One roll, whoever would pass under that roll passes, whoever wouldn't, wouldn't.
 
 ##### Proportional
-The skill % is the % of people who pass. I.E. 90% Athletics for a squad of highly trained soldiers, then 90% of them succeed.
+The skill % is the % of people who pass. I.E. 90% Athletics for a squad of highly trained soldiers, then 90% of them succeed. There's no roll here. Makes the most sense for a large group of 'individual' attempts. The example given is said soldiers trying to climb a steep and difficult mountain.
 
 ### How The Fuck Do I Read Equipment Entries
 Yeah. Me too. By the way, Milieu means what kind of civilization you could see this in. 
@@ -181,6 +182,11 @@ Some things to note here:
   - You choose to parry AFTER you see the results of the attack. Choosing not to parry / not being able to parry is an automatic failure.
   - Why would you parry a missed attack? Why, to inflict Special Effects on your opponent. 
 
+#### What Do Combat Styles Actually Do?
+- Each Combat Style grants access to multiple weapons, depending on the style.
+- Each Combat Style gives one or more 'traits' which are situational benefits. 
+  - Example: Daredevil: May use Evade to dodge blows in hand-to-hand combat without ending up prone.
+
 #### Initiative, Rounds and Actions
 The 'timekeeping' of combat is divided into Combat Rounds (5 seconds) with Turns within those Combat Rounds. The 'countdown' through initiative values is a Cycle. 
 - Initiative is rolled at the start of the fight, and usually sticks. There is a way to reroll it (you have to withdraw, and then spend an Action to reassess the situation). Done by rolling a d10 + Initiative Bonus - Armor Penalties. Ties mean acting concurrently.
@@ -235,4 +241,7 @@ A difference of one size in reach means nothing, as far as I'm aware. So all of 
   - Change Range: Combat action (costing AP), opponent can attempt to counter if they have Action Points
     - Opposed Evade skill test
     - The opponent can instead _attack_, making this instead Combat Style vs. Evade, working like a standard differential roll.
-      - In this case, no matter what, the distance is bridged, even if the attack succeeds. 
+      - No matter what the distance is bridged, even if the attack succeeds. 
+
+#### Hit Locations
+As you may (or may not) have noticed, different locations have different hit points and AP. These hit locations are chosen randomly (unless of course, you use the 'Choose Location' Special Effect). That's all. It's a d20 chart, just for the record. 6 of the locations (legs, abdomen, chest, arms) are 15%, head is 10%.

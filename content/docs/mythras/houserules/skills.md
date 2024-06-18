@@ -2,7 +2,7 @@
 date: 2024-06-15
 linktitle: Revised Skills
 title: Revised Skills
-weight: 1
+weight: 4
 ---
 
 # Mythras Revised Skills

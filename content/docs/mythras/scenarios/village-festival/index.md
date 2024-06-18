@@ -1,116 +1,36 @@
 ---
-
-draft: true
+date: 2024-06-18
+linktitle: Spirit-Turning Festival
+title: Spirit-Turning Festival
+weight: 1
 ---
+# Spirit-Turning Festival
 
-### Mythras Oneshot Idea
-- Starts a little bit like Rise of the Runelords, players are in a decently-sized town for a once a decade festival.
-  - So plenty of little festival games, food, drink and other fun stuff to deal with.
-- Then, at some point during a pivotal point during the festival, an outcast sorcerer attacks with a band of bandits who have infiltrated the town and set up sabotages
-  - You know, all things the players could pick up on before the whole thing. Or get a bad idea, and kick this whole thing off early.
-  - Or make themselves enough of a problem for the bandits / sorcerer to confront them more directly / indirectly. 
-- And from there, we go to combat, though I want to make it fairly dynamic, so there's some thinking there.
+### Background
+Traveling (or wandering) for whatever reason, you've ended up in the small town of Selfas, a fairly quaint village built around a giant stone cathedral. When you arrive, you note that the place is very busy, with houses being rented out to others who seem trustworthy enough, and the small inn being completely full. During your stay, the mayor, a very nervous looking man by the name of Jerrik Edwards. As fortune (or misfortune) would have it, there is a festival occurring on the morrow and he is in desperate need of people to keep the peace, should anyone get too rowdy. He has nothing to offer besides a decent amount of money and otherwise you're free to use your own equipment but _please_ don't kill people. He further explains that the festival, known as the Spirit-Turning Festival, is _very_ important to the livelihood of the town, and it's important that no one gets too uppity. You get the sense that something is up, but you're not sure exactly what... (once you've made your character, I will allow you to **retroactively** roll Insight, but either way, you still accept the job).  
 
-In short:
-- Festival games, and roaming
-- Hints of weird things, or suspicious people
-- Grand speech -> culminates in an attack
+See [Character Creation]({{< relref "docs/mythras/resources/char-gen" >}}) and the [Rules Primer]({{< relref "docs/mythras/resources/rules" >}}).
 
-Things we need:
-- Char gen document
-- Background
-- List of festival games
-- List of sabotages
-- A real plot reason for the sorcerer doing this, and the bandits for helping
+Also refer to [house rules]({{< relref "docs/mythras/houserules/rules" >}}) and [skill changes]({{< relref "docs/mythras/houserules/skills" >}}).
 
-#### Plot Stuff
-- The sorcerer wants a specific relic that the town is reponsible for guarding. They plan to steal it under the guise of a raid, so it looks less overt. If the raid goes well, fine, but if not, they still get the relic. To that end, the bandits are in two teams, one of them is the main raid group, the other are extracting the relic with the sorcerer.
-  - Clue: Looking for a relic: People asking weird questions about the relic, people canvassing the town's church, someone REALLY asking for a tour of the church
-  - Clue: Two groups: A tattoo or branding that ties the two groups together, 
-  - Clue: Guise of a raid:
-  - Clue: Organizer is a sorcerer: The relic is said to secrete a single magical tear once a decade (magical importance), strange things happening in and around the festival, charmed guard
+### Other
+- If you're unsure if a skill or something else will be useful, ask.
+- There will be _no_ magic. Mostly because I don't feel like dealing with the character creation aspects of it.
+- If a career grants accessed to a removed / modified skill, let me know and I'll just very quickly throw in a replacement. For cultures, see below.
 
-### Vampire Oneshot Idea
-Players are shovelheads, recently turned by the Sabbat. They starve them a little, and entice them to run through a gauntlet designed to strip them of their humanity. All part of a recruiting drive so they can take these new recruits and roll them over into capturing some vital thing. 
+### Culture Skill Replacements
+#### Barbarian
+- Add 'Performance' to the list of selectable standard skills at the end.
+- Remove 'Musicianship' from Professional skills, replace it with 'Art (any).'
 
-# Char Gen
-- Base stat stuff, broken down into Characteristics (ability scores), Attributes (derived stats) and Standard Skills (skills everyone has)
-- A lot of the values you're going to input (especially skills) are going to change a little. Beware!
+#### Civilized
+- Replace the Standard Skills with: "Conceal, Deceit, Influence, Insight, Locale, Willpower; one of Drive or Performance."
+- Remove 'Musicianship' from Professional skills, replace it with 'Sleight.'
 
-## Steps
+#### Nomadic
+- Add 'Performance' to the list of selectable standard skills at the end.
+- Remove 'Musicianship' and replace it with 'Art (any).'
 
-#### Character Concept (pg. 6)
-- It's helpful to go in with a vague idea. Or just refresh yourself on what you _could_ be.
-
-#### Characteristics (pg. 7-8)
-- Strength (Str)
-- Constitution (Con)
-- Size (Siz)
-- Dexterity (Dex)
-- Intelligence (Int)
-- Power (Pow)
-- Charisma (Cha)
-
-1. Roll 4d6d1 (four dee six drop lowest one) 5 times (for Strength, Constitution, Dexterity, Power and Charisma), and 2d6+7 2 times (for Size and Intelligence).
-2. Repeat this to get a second array.
-3. Pick the one you like more.
-4. Assign your characteristic scores. The 4d6d1 ones can go into Strength, Constitution, Dexterity, Power or Charisma. The 2d6+7 ones can go into Size or Intelligence.
-
-#### Attributes (pg. 8-10)
-There's a couple of 'em. They're mostly derived from your Characteristics.
-- Action Points (Int + Dex)
-- Damage Modifier (Str + Siz)
-- Experience Modifier (Cha)
-- Healing Rate (Con)
-- Height and Weight (Siz)
-- Hit Points (Con + Siz)
-- Initiative Bonus ((Dex + Int) / 2)
-- Luck Points (Pow)
-- Magic Points (Pow)
-- Movement Rate 6
-
-So go figure all those out. Maybe change around a few attributes if you want to hit a breakpoint. You know the vibe. The Int + Dex AP one (25+) is pretty nice for combat stuff.
-
-#### Standard Skills (pg. 11)
-This is where the book tells you do find all your standard skill starting values. You can do this if you want, but we're going to be adding to them in a bit, so it depends on how you want to keep track of things. 
-
-#### Culture (pg. 13-17)
-Next, you pick your culture, getting you skills. When you pick a culture:
-- Apply a +40% to the Customs and Native Tongue Standard Skills
-- Select 3 Professional Skills from the options offered
-- _If_ desired, select a single Combat Style
-- Distribute 100 points amongst the listed Standard Skills, the chosen Professional Skills and the optional Combat Style, increasing the skill by 1% for every 1 point you spend.
-- Two things here:
-  - You must improve every skill.
-  - Every skill must get at least a 5% increase, and a maximum of a 15% increase.
-
-#### Background Events (pg. 17-20)
-There's a background events chart. I'm not a huge fan of it. If we want to have something cool for a backstory, I'd rather the player just come up with it themselves. But, you're free to look at this if you want ideas or something. I'm not gonna stop you.
-
-#### Community (pg. 21-25)
-That's right, we're going to roll for social class. If you want to _choose_ a lower social class than what you roll, be my guest.
-
-- Roll 4d6 x some value based on your culture for "base" starting money. -> pg. 21 
-- Roll your first d100. This is your 'Social Class' roll. Figure out what social class you belong to based off of a chart. -> pg. 24
-- Everything for the rest of Community is optional. It's just for fun. Why? Because it won't come up in the oneshot. Sorry. Well, I could make it so it does. But I probably won't.
-- Roll another d100. This is your 'Connections' roll. Refer to the connections table. -> pg. 25
-- Roll another d100. This is your 'Reputation' roll. Refer to the reputation table. -> pg. 25
-  - For the 'Parents Table' and the 'Siblings Table' and the 'Extended Family Table', you can roll, or just pick, or just ignore them. -> pg. 25
-
-#### Careers (pg. 28-33)
-These work a lot like backgrounds, with some differences. Basically:
-- Pick a career.
-- Pick three Professional Skills from said career.
-- Distribute 100 points across the Standard Skills and the three chosen Professional Skills.
-- You do not need to improve every skill, there is no minimum amount you need to improve them by, and the max is 15%. 
-
-#### Bonus Skills (pg. 34)
-- Distribute 150 points, no more than 15 in a single skill, across your stuff however you'd like.
-- You get one bonus Professional Skill, to represent a hobby. Or you can pick a Combat Style.
-
-#### Starting Equipment (pg. 34-35)
-- Refer to your Social Class, and the table. -> pg. 35 
-- Spend your money. The hardest part.
-  - Armor -> pg. 58
-  - Random Shit -> pg. 60-61
-  - Things that kill people -> pg. 63-65
+#### Primitive
+- Add 'Performance' to the list of selectable standard skills at the end.
+- Remove 'Musicianship' from Professional skills, replace it with 'Art (any).'
