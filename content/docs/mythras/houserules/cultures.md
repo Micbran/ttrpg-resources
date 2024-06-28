@@ -15,7 +15,7 @@ Blurb, Passions?
 - Professional Skills
   - Culture, Commerce, Language, Navigation, Seamanship, Survival, Healing, Oratory
 - Example Combat Styles
-  - Torchbearer, Trailblazer
+  - Torchbearer, Trailblazer, Knight of the Flame
 
 ### Arak'shar (Arakene)
 Blurb, Passions?
@@ -25,7 +25,7 @@ Blurb, Passions?
 - Professional Skills
   - Acrobatics, Craft (something to do with combat), Engineering, Healing, Navigation, Seamanship, Survival, Track 
 - Example Combat Styles
-  - Shock Trooper, Bodyguard, Scout, Ranger
+  - Shock Trooper, Bodyguard, Scout, Gorecleaver
 
 ### Surwa-Sen (Senese)
 Blurb, Passions?
@@ -55,7 +55,7 @@ Blurb, Passions?
 - Professional Skills
   - Art (any), Bureaucracy, Commerce, Culture(any), Language (any), Lore (any), Oratory, Teach
 - Example Combat Styles
-  - Born Aegis, Warded Fort 
+  - Born Aegis, Warded Fort, Defending Blade 
 
 ### Xayiiris (Xayrian)
 Blurb, Passions?
@@ -65,7 +65,7 @@ Blurb, Passions?
 - Professional Skills
   - Art (any), Craft (any), Healing, Lore (any), Navigation, Sleight, Teach, Track
 - Example Combat Styles
-  - True Blade, Steppe Roamer
+  - True Blade, Steppe Roamer, Star Shot
 
 ### Mulinnos (Mulian)
 Blurb, Passions?

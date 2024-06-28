@@ -60,6 +60,7 @@ I used the various Celtic name generators and changed them up a bunch.
   - Morwyn (F)
   - Efa (M)
 
+- Tattoo looks like a skull surrounded by green flames. Like one of those shitty edgy ones.
 - 'Infiltration' Group
   - Callach Se, Annaleise, Efa, Carius
   - Hide their tattoo, Callach Se doesn't have one. 
@@ -108,22 +109,23 @@ Kinda the same deal as Sabotages, these are functionally random.
 Remember the social rules from War for the Crown? Yeah, maybe something like that. I'll say there are six 'turns', to get things done, and I'll arbitrarily decide if something takes long enough to be deserving of a turn. Basically, traveling + doing something, or doing something that takes a while will spend a turn, and other stuff will happen. I'll make it clear when something will take time. "This will take some time." And maybe use a BitD style clock, with the final bit of it being 'Commencement Speech.' 
 
 - At the core of it, the two groups basically operate independently, occasionally 'syncing' up via a single member. I'll say this happens on Turn 3 and Turn 6.
-- Raid Group "AI":
+- **Raid Group "AI"**:
   - Caricx and Solovic go around, intimidating the fuck out of the other guards. They might target the players if they're alone.
   - Martyn and Morwyn accomplish simple sabotages. They look for a quick exit if caught, and try to find the other two. They have three firebombs between them.
   - Once they've scared the guards, Caricx and Solovic go around planting bombs and the other sabotages. The bombs are always top priority.
   - Solovic is sent out as a liaison on Turn 3 & 6.
-- Infiltration Group "AI":
+- **Infiltration Group "AI"**:
   - Gather information, generally being split up.
     - Asking questions - near the church, and away from it.
     - Casing the joint - near the church
   - Locate the Mayor (T2) -> Isolate (T3) -> Charm (T4)
-    - Handled by a different member in each circumstance
+    - Many people asking, and then Callach Se for T3 and T4.
   - Get small weapons from outskirts
   - Callach Se retreats for the Ritual (T5 -> T6)
+    - So basically, Callach Se is occupied T3->T6, and will be in the crowd again for the speech.
   - Annaleise is the liaison on Turn 3 & 6.
 
-Turn 7 is the speech itself. 
+Turn 7 is the speech itself, so one more chance (kind of) and then everything major starts happening. 
 
 #### The Felflame of Asternoth
 Focuses on fire and burning things away, physically and metaphorically. The Sorcerer wields the power through a deep black coin that feels warm to the touch. The Sorcerer can make the flames within it burn extremely hot at will, and can use it as a source of fire in a pinch. If the Sorcerer is killed, then Asternoth will choose a new bearer, attempting subtle influence by making his choice feel special.
@@ -146,3 +148,9 @@ His master, Asternoth, has gifted him several 'flame devices' that the bandits b
 
 ## Vampire Oneshot Idea
 Players are shovelheads, recently turned by the Sabbat. They starve them a little, and entice them to run through a gauntlet designed to strip them of their humanity. All part of a recruiting drive so they can take these new recruits and roll them over into capturing some vital thing. 
+
+When I originally had this idea, I always envisioned like a...
+- Waking up from Mass Grave thing
+- Organizing into groups / being organized into groups to be forced to do Vaulderie
+
+But from there it's like, where do I go? First meal -> disorganized raid onto something? Sounds like a lot of combat, not a lot of other stuff. 

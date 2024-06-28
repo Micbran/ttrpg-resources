@@ -8,4 +8,5 @@ weight: 1
 # Rules
 
 ### Luck Points
-Instead of rerolling the d100 die, you can optionally swap the 10's and 1's place, giving you a more 'guaranteed' result. 
+Instead of rerolling the d100 die, you can optionally swap the 10's and 1's place, giving you a more 'guaranteed' result.  
+Example: Turning a 71 into a 17.
