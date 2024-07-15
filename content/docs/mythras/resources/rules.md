@@ -78,9 +78,9 @@ Usually, it comes down to rolling a skill. So, you roll a d100 and try to get eq
 #### Difficulty Grades
 Sometimes it's easier (or harder) to do something.
 - Automatic -> No need to roll.
-- Very Easy -> Double the skill value.
-- Easy -> Add half again the skill value.
-- Standard -> No adjustment.
+- Very Easy -> Double the skill value (200% total).
+- Easy -> Add half again the skill value (150% total).
+- Standard -> No adjustment (100% total).
 - Hard -> Reduce the skill value by 1/3rd (66% total)
 - Formidable -> Reduce the skill value by 1/2 (50% total)
 - Herculean -> Reduce the skill value by 9/10 (10% total)
@@ -177,10 +177,11 @@ Combat is essentially a series of differential rolls with a lot of 'choices' on 
 6. If the defender achieved a success or critical, reduce any damage inflicted according to the Parry rules.
 
 Some things to note here:
-  - Both sides can succeed and have something happen (like damage, or Special Effects).
+- Both sides can succeed and have something happen (like damage, or Special Effects).
   - The differential roll is used to determine Special Effects, but nothing else. Damage happens if the attack is successful, parrying happens if the defending is successful.
-  - You choose to parry AFTER you see the results of the attack. Choosing not to parry / not being able to parry is an automatic failure.
-  - Why would you parry a missed attack? Why, to inflict Special Effects on your opponent. 
+- You choose to parry AFTER you see the results of the attack. Choosing not to parry / not being able to parry is an automatic failure on your side.
+  - Failure matched with Failure is 0, Failure matched with Critical Failure is also 0, so to get an advantage you have to at least _try_ to parry.
+  - Why would you parry a missed attack? To inflict Special Effects on your opponent. 
 
 #### What Do Combat Styles Actually Do?
 - Each Combat Style grants access to multiple weapons, depending on the style.
@@ -228,6 +229,7 @@ It's vaguely important to note that critical parries / critical attacks don't do
 - Major Wound: Hit location is reduced to a negative # of hit points equal to or greater than it's starting hit points.
   - e.g. A location with 8 hit points that is reduced to -1 from a single hit is a serious wound. If it were to get hit again and go to -8, that's a major wound.
   - These REALLY fuck you up, and you need to make a check vs. dying. And you're also bleeding to death. Don't let this happen to you!
+- In summary, taking damage is "fine", since you're not taking any real penalties till a hit location has 0. So, given armor, you can probably take a weak hit to a hit location once.  
 
 #### Reach
 A difference of one size in reach means nothing, as far as I'm aware. So all of this applies to 2 or more size steps.

@@ -8,7 +8,7 @@ weight: 4
 # Mythras Revised Skills
 **Notes** 
 - (S) means Standard, meaning all characters have access to this skill. 
-- (P) means Professional, meaning you must specifically be granted access to it (as by a culture, or career for example). 
+- (P) means Professional, meaning you must specifically be granted access to it (such as by a culture or career for example). 
 - (M) means magical, magical skills are always professional. Separating them because they work very differently.
 
 #### Acrobatics (P) (Str + Dex)
@@ -30,7 +30,7 @@ Not large sea craft (see: Seamanship). Mostly for finer manuevers. Not-so danger
 Lifting, breaking, contests of strength.
 
 #### Bureaucracy (P) (Int x 2)
-Understanding or dealing with administrative processes, and navigating red tape.  
+Understanding or dealing with administrative processes and navigating red tape.  
 
 #### Combat Style (S / P) (Str + Dex)
 Fighting with techniques proscribed by the combat style.
@@ -84,7 +84,7 @@ Minor, petty magic, charms, cantrips and blessings.
 The 'professional' version of first aid, for treating serious wounds, diseases, poisons, and surgery.
 
 #### Influence (S) (Cha x 2)
-Persuading others, often opposed.
+Persuading others, often opposed against Insight, Willpower or Influence.
 
 #### Insight (S) (Int + Pow)
 Sense motives and situations. Get hunches.
@@ -105,10 +105,10 @@ What it says on the tin.
 Knowledge. Required choice of specialization.
 
 #### Mechanisms (P) (Dex + Int)
-Knowledge and skill to assemble and disassemble mechanical devices, such as traps. The 'other' part of Lockpicking.
+Knowledge and skill to assemble and disassemble mechanical devices, such as traps. The 'other part' of Lockpicking.
 
 #### Meditation (M / P, Mysticism) (Int + Con)
-Can be used to augment skills to superhuman levels via the Mysticism magic system. Also has applications outside of that.
+Can be used to augment skills to superhuman levels via the Mysticism magic system. Has a _few_ applications outside of that.
 
 #### Mysticism (M) (Pow + Con)
 Core skill of the mysticism magic system.
@@ -117,7 +117,7 @@ Core skill of the mysticism magic system.
 Speak one's own language. 
 
 #### Navigation (P) (Int + Pow)
-Ability to not get lost, and get where you're going. Required choice of specialization in a region or environment.
+Ability to not get lost, and get where you're going. Required choice of specialization in a region or environment (ex. forests or the Stolen Lands).
 
 #### Oratory (P) (Pow + Cha)
 Mass influence, or rather, one-sided persuasion, such as speeches.
@@ -144,7 +144,7 @@ Control and remain mounted on creatures that can be ridden.
 #### Seamanship (P) (Int + Con)
 Driving big boats and how they work.
 
-#### Shaping (M) (Int + Pow)
+#### Shaping (M, Sorcery) (Int + Pow)
 Manipulating or shaping invoked spells from the Sorcery system. Change range, targets, duration, etc.
 
 #### Sleight (P) (Dex + Cha)
@@ -200,10 +200,10 @@ Binding (Pow + Cha, Animism), Devotion (Pow + Cha, Theism), Exhort (Int + Cha, T
 - Sleight (P) -> Conceal (S)
 - Oratory (P), Commerce (P) -> Influence (S)
 
-#### Professional -> Professional parings
+#### Professional <-> Professional parings
 - Lockpicking (P) <-> Mechanisms (P)
 
-#### Standard -> Standard pairings
+#### Standard <-> Standard pairings
 - Athletics (S) <-> Swim (S)
 
 #### Skills with large number of specializations pairings
