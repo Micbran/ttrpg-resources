@@ -36,6 +36,8 @@ Blurb, Passions?
   - Art, Bureaucracy, Craft (any), Healing, Mechanisms, Lore (any), Teach, Survival
 - Example Combat Styles
   - Blood-Drawing, Bone-Breaking, Skin-Flaying
+- Combat Style Benefits
+  - Flesh Worker: This combat style can be used to augment the First Aid and Healing skill as long as the use of the skill involves flesh somehow.
 
 ### Levishad (Levian)
 Blurb, Passions?
