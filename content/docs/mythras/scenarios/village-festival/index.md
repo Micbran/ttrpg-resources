@@ -12,7 +12,7 @@ Traveling (or wandering) for whatever reason, you've ended up in the small town 
 You are expected to:
   - Participate in the festival (Jerrik was very insistent about this one, "Please, have a good time!"),
   - Keep the peace,
-  - Investigate any 'suspicious' things (Jerrik was very insistent about this one, too, "Always shady figures around during these things).
+  - Investigate any 'suspicious' things (Jerrik was very insistent about this one, too, "Always shady figures around during these things.").
 
 The [rulebook itself](https://drive.google.com/file/d/10liuweiXK6uaIy7oOrCXkLkxIC9At4Mg/view?usp=sharing) (this is a gdrive link).
 
