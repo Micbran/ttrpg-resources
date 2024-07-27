@@ -7,12 +7,12 @@ weight: 1
 # Spirit-Turning Festival
 
 ### Background
-Traveling (or wandering) for whatever reason, you've ended up in the small town of Selfas, a fairly quaint village built around a giant stone cathedral. When you arrive, you note that the place is very busy, with houses being rented out to others who seem trustworthy enough, and the small inn being completely full. During your stay, the mayor, a very nervous looking man by the name of Jerrik Edwards. As fortune (or misfortune) would have it, there is a festival occurring on the morrow and he is in desperate need of people to keep the peace, should anyone get too rowdy. He has nothing to offer besides a decent amount of money and otherwise you're free to use your own equipment but _please_ don't kill people. He further explains that the festival, known as the Spirit-Turning Festival, is _very_ important to the livelihood of the town, and it's important that no one gets too uppity. You get the sense that something is up, but you're not sure exactly what... (once you've made your character, I will allow you to **retroactively** roll Insight, but either way, you still accept the job).  
+Traveling (or wandering) for whatever reason, you've ended up in the small town of Selfas, a fairly quaint village built around a giant stone cathedral. When you arrive, you note that the place is very busy, with houses being rented out to others who seem trustworthy enough, and the small inn being completely full. During your stay, the mayor, a very nervous looking man by the name of Jerrik Edwards approaches you and asks but one favor: "Will you please, please act as an additional member of the town guard?" As fortune (or misfortune) would have it, there is a festival occurring on the morrow and he is in desperate need of people to keep the peace, should anyone get too rowdy. He has nothing to offer besides a decent amount of money and otherwise you're free to use your own equipment but _please_ don't kill people. He further explains that the festival, known as the Spirit-Turning Festival, is _very_ important to the livelihood of the town, and it's important that no one gets too uppity. You get the sense that something is up, but you're not sure exactly what... (once you've made your character, I will allow you to **retroactively** roll Insight, but either way, you still accept the job).  
 
 You are expected to:
   - Participate in the festival (Jerrik was very insistent about this one, "Please, have a good time!"),
   - Keep the peace,
-  - Investigate any 'suspicious' things (Jerrik was very insistent about this one, too, "Always shady figures around during these things).
+  - Investigate any 'suspicious' things (Jerrik was very insistent about this one, too, "Always shady figures around during these things.").
 
 The [rulebook itself](https://drive.google.com/file/d/10liuweiXK6uaIy7oOrCXkLkxIC9At4Mg/view?usp=sharing) (this is a gdrive link).
 
