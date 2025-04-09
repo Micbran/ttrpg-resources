@@ -11,6 +11,16 @@ weight: 4
 - (P) means Professional, meaning you must specifically be granted access to it (such as by a culture or career for example). 
 - (M) means magical, magical skills are always professional. Separating them because they work very differently.
 
+## Modifications
+- Dance (S) and Sing (S) removed, and put under the Performance (S) skill.
+- Acting (P), Musicianship (P) removed, and put under the Performance (S) skill.
+- Swim (S) removed.
+- Courtesy (P) removed.
+- Gambling (P) removed.
+- Literacy (P) removed.
+- Seduction (P) removed.
+- Only Shaping (M) and Invocation (M) are available.
+
 #### Acrobatics (P) (Str + Dex)
 Balance, gymnastics, juggling, tumbling. 
 
@@ -159,9 +169,6 @@ Knowledge of places and social contacts within a settlement, whether illicit or 
 #### Survival (P) (Con + Pow)
 Surviving in a rural or wilderness environment, foraging, building a fire, shelter, finding a safe place to sleep.
 
-#### Swim (S) (Str + Con)
-Swim. 
-
 #### Teach (P) (Int + Cha)
 Pass on knowledge or techniques in a constructive manner. 
 
@@ -180,11 +187,31 @@ Concentration, channeling one's own force of will, and resist mental shock. Most
 ### All Standard
 Athletics (Str + Dex), Boating (Str + Con), Brawn (Str + Siz), Combat Style (any) (Str + Dex), Conceal (Dex + Pow), Customs (Int x 2), Deceit (Int + Cha), Drive (Dex + Pow), Endurance (Con x 2), Evade (Dex x 2), First Aid (Dex + Int), Influence (Cha x 2), Insight (Int + Pow), Locale (Int x 2), Native Tongue (Int + Cha), Perception (Int + Pow), Performance (Cha + *), Ride (Dex + Pow), Stealth (Dex + Int), Swim (Str + Con), Unarmed (Str + Dex), Willpower (Pow x 2)
 
+#### Old Standard
+Athletics, Boating, Brawn, Combat Style (any), Conceal, Customs, Dance, Deceit, Drive, Endurance, Evade, First Aid, Influence, Insight, Locale, Native Tongue, Perception, Ride, Sing, Stealth, Swim, Unarmed, Willpower
+
+#### Changes
+- Dance and Sing removed, and put under the Performance Standard skill.
+- Swim removed. Use Athletics.
+
 ### All Professional
 Acrobatics (Str + Dex), Art (Pow + Cha), Bureaucracy (Int x 2), Commerce (Int + Cha), Craft (Dex + Int), Culture (Int x 2), Disguise (Int + Cha), Engineering (Int x 2), Healing (Int + Pow), Language (Int + Cha), Lockpicking (Dex x 2), Lore (Int x 2), Mechanisms (Dex + Int), Navigation (Int + Pow), Oratory (Pow + Cha), Seamanship (Int + Con), Sleight (Dex + Cha), Streetwise (Pow + Cha), Survival (Con + Pow), Teach (Int + Cha), Track (Int + Con)
 
+#### Old Professional
+Acting, Acrobatics, Art, Bureaucracy, Commerce, Courtesy, Craft, Culture, Disguise, Engineering, Gambling, Healing, Language, Literacy, Lockpicking, Lore, Mechanisms, Musicianship, Navigation, Oratory, Seamanship, Seduction, Sleight, Streetwise, Survival, Teach, Track
+
+#### Changes
+- Acting, Musicianship removed, and put under the Performance Standard skill.
+- Courtesy removed.
+- Gambling removed.
+- Literacy removed.
+- Seduction removed.
+
 ### All Magical
 Binding (Pow + Cha, Animism), Devotion (Pow + Cha, Theism), Exhort (Int + Cha, Theism), Folk Magic (Pow + Cha, Folk Magic), Invocation (Int + Cha, Sorcery), Meditation (Int + Con, Mysticism), Mysticism (Pow + Con), Shaping (Int + Pow, Sorcery), Trance (Pow + Con, Animism)
+
+#### Changes
+- Only Sorcery related ones exist, which are Invocation and Shaping.
 
 ## New Skill Rules
 ### Subskills
@@ -217,6 +244,7 @@ Binding (Pow + Cha, Animism), Devotion (Pow + Cha, Theism), Exhort (Int + Cha, T
 Language (P) gives you a number of specializations equal to your Language / 20% (rounded up) all based on the same Language skill. You can still take multiple specialties, which gives you multiple 'groupings' of languages at the same mastery (%). In essence, they're subskills but they get the full value, and you get more of them.
 
 ### Removals
+- Swim is removed, because it just feels excessive with Athletics existing. Sure, Athletics becomes the 'do it all' skill, but swimming is already an edge case. Nobody _wants_ to get in the water. 
 - Seduction is removed. Both because it's awkward and I don't think it really adds anything.
 - Literacy is removed because I don't feel like dealing with it.
 - Courtesy is removed.

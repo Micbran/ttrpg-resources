@@ -9,30 +9,32 @@ weight: 1
 ## Characteristics
 Ability scores. Yippie!
 
-#### Strength (Str)
+#### Strength (STR)
 Physical strength.
 
-#### Constitution (Con)
+#### Constitution (CON)
 Health and hardiness.
 
-#### Size (Siz)
+#### Size (SIZ)
 Measure of mass and height.
 
-#### Dexterity (Dex)
+#### Dexterity (DEX)
 Agility, balance and reflexes.
 
-#### Intelligence (Int)
+#### Intelligence (INT)
 Cognitive ability.
 
-#### Power (Pow)
+#### Power (POW)
 Soul, spirit, inner drive AND capacity for magic.
 
-#### Charisma (Cha)
+#### Charisma (CHA)
 Personality and likeability. 
 
 ## Attributes
 #### Action Points (Calc Dex + Int)
 Every 12 (and fraction thereof) is one action point. 25 is a pretty nice breakpoint.
+##### House Rule
+If you have 2 or less AP, you gain 1 bonus AP, however, this bonus AP can only be used on the Evade and Parry Reactive Actions.
 
 #### Damage Modifier (Calc Str + Siz)
 Every 5 (and fraction thereof) is one die step, with the 'zero line' being at 21-25.
@@ -57,7 +59,7 @@ Every 6 (and fraction thereof) is 1 luck point. Restore at the start of every se
 
 Luck points can be used to:
 - Reroll things that affect you. That includes your own rolls and other people's rolls towards you. That also includes _any_ kind of roll, not just d100 ones.
-  - Additionally, on d100 rolls you can optionally swap the 10's and 1's place instead of rerolling.
+  - **House Rule** Additionally, on d100 rolls you can optionally swap the 10's and 1's place instead of rerolling.
 - Gain 1 Action Point when you have zero. Can only be used on defensive actions. Can only be used once in an encounter.
 - Turn a Major Wound into a Serious Wound instead, which makes you NOT bleeding all over the floor.
 

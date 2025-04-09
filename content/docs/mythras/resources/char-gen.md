@@ -21,13 +21,13 @@ weight: 2
 
 
 #### Characteristics (pg. 7-8)
-- Strength (Str)
+- Strength (STR)
 - Constitution (Con)
-- Size (Siz)
-- Dexterity (Dex)
-- Intelligence (Int)
-- Power (Pow)
-- Charisma (Cha)
+- Size (SIZ)
+- Dexterity (DEX)
+- Intelligence (INT)
+- Power (POW)
+- Charisma (CHA)
 
 1. Roll 4d6d1 (four dee six drop lowest one) 5 times (for Strength, Constitution, Dexterity, Power and Charisma), and 2d6+7 2 times (for Size and Intelligence).
 2. Write those numbers down! This is not in order / down the line.
@@ -37,21 +37,21 @@ weight: 2
 
 #### Attributes (pg. 8-10)
 There's a couple of 'em. They're mostly derived from your Characteristics. Refer to the various charts.
-- Action Points (Int + Dex)
-- Damage Modifier (Str + Siz)
-- Experience Modifier (Cha)
-- Healing Rate (Con)
-- Height and Weight (Siz)
-- Hit Points per Hit Location (Con + Siz)
-- Initiative Bonus ((Dex + Int) / 2)
-- Luck Points (Pow)
-- Magic Points (Pow)
-- Movement Rate 6
+- Action Points (INT + DEX)
+- Damage Modifier (STR + SIZ)
+- Experience Modifier (CHA)
+- Healing Rate (CON)
+- Height and Weight (SIZ)
+- Hit Points per Hit Location (CON + SIZ)
+- Initiative Bonus ((DEX + INT) / 2)
+- Luck Points (POW)
+- Magic Points (POW)
+- Movement Rate (6)
 
-So go figure all those out. Maybe change around a few attributes if you want to hit a breakpoint. You know the vibe. The Int + Dex AP one (25+) is pretty nice for combat stuff and isn't too hard to hit (you can generally hit it on average, if you're willing to put decent values on Int + Dex).
+So go figure all those out. Maybe change around a few attributes if you want to hit a breakpoint. You know the vibe. The INT + DEX AP one (25+) is pretty nice for combat stuff and isn't too hard to hit (you can generally hit it on average, if you're willing to put decent values on INT + DEX).
 
 #### Standard Skills (pg. 11)
-This is where the book tells you do find all your standard skill starting values. You can do this if you want, but we're going to be adding to them in a bit, so it depends on how you want to keep track of things. 
+This is where the book tells you do find all your standard skill starting values. You can do this if you want, but we're going to be adding to them in a bit, so it depends on how you want to keep track of things. Refer to houserules for changes.
 
 #### Culture (pg. 13-17)
 Next, you pick your culture, getting you skills. When you pick a culture:
