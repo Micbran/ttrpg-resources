@@ -13,7 +13,7 @@ weight: 20
 - There might a few culture specific careers here.
 
 ### Zegratian Careers
-#### Bearers of the Grayflame
+#### Bearers of the Grayflame (Quaretas)
 Tasked with carrying the Grayflame between settlements (or sometimes into the unknown), Bearers are seasoned self-sufficient survivalists, often traveling alone or with small groups.
 
 - Standard Skills
@@ -21,7 +21,7 @@ Tasked with carrying the Grayflame between settlements (or sometimes into the un
 - Professional Skills
   - Lorem
 
-#### Attendant to the Flame
+#### Attendant to the Flame (Civiltas)
 Attendants are the backbone of any Zegratian settlement, making sure that all sources of the Grayflame are adequately cared for and distributed properly. They often take leadership positions and are often well-known around the settlement they care for.
 
 - Standard Skills
