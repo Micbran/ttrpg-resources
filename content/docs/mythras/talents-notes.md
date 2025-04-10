@@ -71,9 +71,7 @@ The closest existing concept to this in Mythras is the boons from fighting style
 
 # New Content
 ## Talents
-
 ### Utility Talents
-- One for each skill?
 #### Skills (Standard)
 ##### Athletics
 ###### Armored Athlete
@@ -82,12 +80,12 @@ When using the athletics skill (running, sprinting, climbing and swimming), if y
 ###### Skilled Leaper
 You only fall prone from jumping when your jump exceeds your maximum distance (such as from falling some extra distance). Your maximum jumping distances become three times your height horizontally and three-fourths your height vertically, as long as you have a five meter run-up. Your maximum jumping distances for standing jumps becomes two times your height horizontally and one-half your height vertically.
 
-###### Fleet-footed
+###### Fleet-Footed
 You add one meter to your base Movement when sprinting and half that when running over long distances for every 15% of Athletics, instead of every 25%.
 
 ##### Boating
 ###### Land Boat
-You may use your Boating skill instead of your Drive skill, at one grade of difficulty higher.
+You may use your Boating skill instead of your Drive skill, at one grade of difficulty harder.
 
 ##### Brawn
 ###### Hefty Toss
@@ -113,21 +111,27 @@ Masking emotion or having no reaction to something is one grade easier for you, 
 
 ##### Drive
 ###### Water Chariot
-You may use your Drive skill instead of your Boating skill, at one grade of difficulty higher.
+You may use your Drive skill instead of your Boating skill, at one difficulty grade of difficulty harder.
 
 ##### Endurance
 ###### Unusual Endurance
-Your Endurance skill is no longer bounded by your Con x5 as a maximum. 
+Your Endurance is no longer bounded by your CON x5 as a maximum. 
 
 ##### Evade
 ###### Lucky Dodge
-Whenever you use a luck point to gain an additional action point and use it to take the Evade reactive action, treat the grade of difficulty as one more beneficial to you and you always stay on your feet (i.e. don't fall prone), even if you fail or fumble.
+Whenever you use a luck point to gain an additional action point and use it to take the Evade reactive action, treat the difficulty as one grade easier and you always stay on your feet (i.e. don't fall prone), even if you fail or fumble.
 
 ##### First Aid
+###### Quick Aid
+Your first aid never takes more than one minute. When treating bleeding or impaled, you may do so in six seconds by making the difficulty one grade harder, and failing this quickened First Aid does not prevent you from later attempting a longer First Aid (though you cannot make another quickened First Aid for the same injury).
+###### Battle Dressing
 
 ##### Influence
+###### ???
 
 ##### Insight
+###### Common Sense
+As long as you have some knowledge of what is 'common' in the locale that you are in, you may attempt an easy Insight roll to get a feel for what a regular person would do or know in a given situation.
 
 ##### Locale
 
@@ -152,5 +156,7 @@ As long as you at least succeed at a Stealth roll, attempts to locate you suffer
 ##### Unarmed
 
 ##### Willpower
+###### Unusual Willpower
+Your Willpower is no longer bounded by your POW x5 as a maximum. 
 
 #### Skills (Professional)
