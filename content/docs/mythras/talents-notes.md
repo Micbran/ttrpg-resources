@@ -101,16 +101,27 @@ When using the Brawn skill in a contest of strength, you may ignore one increase
 When you at least succeed at a Conceal roll, attempts to locate the thing concealed suffer a penalty equal to 20% of your Conceal.
 
 ##### Customs
+###### Careful Custom(er)
+You can never fumble a Customs roll, instead receiving the results of an embarrassing, but harmless failure. If you are not under any pressure and the difficulty grade is not anymore difficult than standard, you may choose to not roll and instead receive a success.
 
 ##### Deceit
+###### Lie to Me
+lol literally as the pf2e skill feat, including the one minute clause?
+
+###### Stone Mask
+Masking emotion or having no reaction to something is one grade easier for you, unless the prompting event relates to one of your Passions.
 
 ##### Drive
 ###### Water Chariot
 You may use your Drive skill instead of your Boating skill, at one grade of difficulty higher.
 
 ##### Endurance
+###### Unusual Endurance
+Your Endurance skill is no longer bounded by your Con x5 as a maximum. 
 
 ##### Evade
+###### Lucky Dodge
+Whenever you use a luck point to gain an additional action point and use it to take the Evade reactive action, treat the grade of difficulty as one more beneficial to you and you always stay on your feet (i.e. don't fall prone), even if you fail or fumble.
 
 ##### First Aid
 
