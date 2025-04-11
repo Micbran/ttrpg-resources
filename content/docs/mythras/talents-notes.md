@@ -104,7 +104,7 @@ You can never fumble a Customs roll, instead receiving the results of an embarra
 
 ##### Deceit
 ###### Lie to Me
-lol literally as the pf2e skill feat, including the one minute clause?
+As long as you can engage someone in back-and-forth conversation for one minute, you may attempt a Deceit roll in place of an Insight roll to see if someone is lying. All modifiers that would normally affect an Insight roll to see through Deception instead apply to your Deceit roll.
 
 ###### Stone Mask
 Masking emotion or having no reaction to something is one grade easier for you, unless the prompting event relates to one of your Passions.
@@ -123,25 +123,47 @@ Whenever you use a luck point to gain an additional action point and use it to t
 
 ##### First Aid
 ###### Quick Aid
-Your first aid never takes more than one minute. When treating bleeding or impaled, you may do so in six seconds by making the difficulty one grade harder, and failing this quickened First Aid does not prevent you from later attempting a longer First Aid (though you cannot make another quickened First Aid for the same injury).
-###### Battle Dressing
+Your first aid never takes more than one minute. When treating bleeding or impaled, you may do so with 1 AP by making the difficulty one grade harder, and failing this quickened First Aid does not prevent you from later attempting a longer First Aid (though you cannot make another quickened First Aid for the same injury).
 
 ##### Influence
-###### ???
+###### Wild Empathy
+You may use Influence on animals and creatures of similar intellect. Non-friendly but not yet hostile animals may cause the grade of difficulty of the Influence roll to be one harder.
 
 ##### Insight
 ###### Common Sense
 As long as you have some knowledge of what is 'common' in the locale that you are in, you may attempt an easy Insight roll to get a feel for what a regular person would do or know in a given situation.
 
+###### Combat Insight
+Once per encounter, you may attempt an Insight roll against a target of your choice, the difficulty grade depending on how familiar you are with them (in general, not personally) and their tactics. If you succeed, you get a general idea of what they are going to do on their next turn and you learn how much AP they currently have. If you fail, you glean nothing. This does not cost an AP. If the situation changes enough that their course of action would change, you learn that as well.
+
 ##### Locale
+###### Locale Wanderer
+Choose a second, specific Locale. You treat this as your Locale as well, using the same Locale skill to roll for it.
 
 ##### Native Tongue
+###### Bilingual
+Choose a second language. You treat this as your Native Tongue as well, including generally not being required to roll for it.
 
 ##### Perception
+###### Sharp Sense
+Choose one sense other than sight. This sense is unusually sharp and you glean a greater amount of information from it. For example, a greater sense of hearing leveraged against footsteps heard through a wall might give you a better idea of the clothing, armor and location of the person you are attempting to detect, even if you can't see them.
 
 ##### Performance
+###### Solo Act
+Choose two performance specializations. You are equally adept at either of these, practicing both and training them together. They use the same skill value.
+
+###### Distracting Performance
+You may attempt a Performance roll to draw the attention of all around you. If you succeed, attention is drawn to you for at least a minute, potentially making the actions of allies easier to hide. Future attempts against the same people might be more difficult, as people are already familiar with your performance.  
+**Critical Success** Those involved have no idea that distracting them was your plan and are completely enraptured. You may extend your performance for up to an hour, keeping the distraction up, unless the situation dramatically changes.  
+**Failure** You fail to draw the full attention of others.  
+**Fumble** Those you attempt to distract realize what you're trying to do and instead are on edge, and distrust you.
 
 ##### Ride
+###### Trick Riding
+You may perform feats of 'flamboyant' riding off of a normal success of Ride.
+
+###### Beast Rider
+Over the course of a week, you may familiarize yourself with a creature capable of bearing your weight. As long as it is outfitted as a mount would be (saddle, stirrups, the works), you ignore any difficulty grade increases that would normally be incurred from riding an unfamiliar species or medium. More bizarre or ornery creatures might take longer to familiarize yourself with, or require additional rolls.
 
 ##### Stealth
 ###### Stealth Assistance
@@ -153,10 +175,57 @@ As long as you at least succeed at a Stealth roll, you may help hide one or more
 ###### Tricky Stealth
 As long as you at least succeed at a Stealth roll, attempts to locate you suffer a penalty equal to 20% of your Stealth.
 
-##### Unarmed
-
 ##### Willpower
 ###### Unusual Willpower
 Your Willpower is no longer bounded by your POW x5 as a maximum. 
 
 #### Skills (Professional)
+##### Acrobatics
+###### Cat Fall
+You suffer half the damage you normally would from intentional falls, and whenever you succeed on an Acrobatics roll to reduce fall damage, you treat falls as 6 meters shorter instead of 2.
+
+###### Engaging Acrobatics
+You may substitute your Acrobatics for Performance in most cases, including for use in Performance talents such as Distracting Performance.
+
+##### Art
+###### Artist's Eye
+When interacting with something that is related to your artistic specialty, you may use your Art skill value instead of the usual skill. For example, a painter could haggle a painting (theirs or someone elses) with Art instead of Commerce, or understand the properties of a certain chemical or plant due to its use in their art (such as knowing how to make pigments or similar materials from a plant otherwise unfamiliar to them).
+
+##### Bureaucracy
+######
+
+##### Commerce
+
+##### Craft
+
+##### Culture
+
+##### Disguise
+
+##### Engineering
+
+##### Healing
+
+##### Language
+
+##### Lockpicking
+
+##### Lore
+
+##### Mechanisms
+
+##### Navigation
+
+##### Oratory
+
+##### Seamanship
+
+##### Sleight
+
+##### Streetwise
+
+##### Survival
+
+##### Teach
+
+##### Track
